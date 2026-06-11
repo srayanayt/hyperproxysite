@@ -12,7 +12,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 from threading import Thread
 
 # --- CONFIGURATION & VERSION CONTROL ---
-ONLINE_FILE_URL = "https://srayanayt.github.io/hyperproxysite/"
+ONLINE_FILE_URL = "https://srayanayt.github.io/hyperproxysite/hyper.py"
 PORT = 8080
 
 # --- PATH SETUP ---
